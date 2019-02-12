@@ -1,5 +1,5 @@
 # jInfo
-### Simple, customization information / notification boxes primarily for UserScripts.
+### Simple, customization information / notification boxes.
 
 **What are jInfo's?**
 A jInfo is a small box in the corner of a users screen to provide the users with simple, quick information. They are easily changed and have a few beautiful stylings.
